@@ -1,7 +1,7 @@
 node{
     stage('Table Mountain'){
         
-          git 'https://github.com/Virutandel/TableMountainTest'
+          git 'https://github.com/Virutandel/TableMountainJava8'
     }
     
     stage('Compile-Package'){
