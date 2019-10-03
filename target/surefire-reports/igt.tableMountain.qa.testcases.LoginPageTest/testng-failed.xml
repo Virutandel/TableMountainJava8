@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [igt.tableMountain.qa.testcases.LoginPageTest]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="igt.tableMountain.qa.testcases.LoginPageTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="loginPageTitiletest"/>
+          <include name="igtLogoTest"/>
+          <include name="tearDown"/>
+          <include name="loginTest"/>
+        </methods>
+      </class> <!-- igt.tableMountain.qa.testcases.LoginPageTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [igt.tableMountain.qa.testcases.LoginPageTest] -->
